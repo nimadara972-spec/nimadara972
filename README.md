@@ -13,5 +13,5 @@
 
 <!-- Galaxy Visual -->
 <p align="center">
-  <img src="https://cdn.pixabay.com/animation/2023/05/03/07/27/07-27-01-68_512.gif" alt="Galaxy Background" width="600" height="500"/>
+  <img src="https://cdn.pixabay.com/animation/2023/05/03/07/27/07-27-01-68_512.gif" alt="Galaxy Background" width="600" height="700"/>
 </p>
