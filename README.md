@@ -31,13 +31,13 @@
       <h3>🔗 Connect with me:</h3>
       <p>
         <a href="https://www.linkedin.com/in/your-profile" target="_blank">
-          <img src="https://chat.openai.com/c/19a54c5e-58e5-4cf3-8027-e92727639953/linkedin.png" alt="LinkedIn" width="40" />
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" />
         </a>
         <a href="https://www.kaggle.com/your-profile" target="_blank">
-          <img src="https://chat.openai.com/c/19a54c5e-58e5-4cf3-8027-e92727639953/kaggle.png" alt="Kaggle" width="40" />
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" alt="Kaggle" width="40" />
         </a>
         <a href="https://www.instagram.com/your-profile" target="_blank">
-          <img src="https://chat.openai.com/c/19a54c5e-58e5-4cf3-8027-e92727639953/instagram.png" alt="Instagram" width="40" />
+          <img src="https://cdn-icons-png.flaticon.com/512/174/174855.png" alt="Instagram" width="40" />
         </a>
       </p>
     </td>
