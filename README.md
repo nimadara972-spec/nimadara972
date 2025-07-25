@@ -3,7 +3,7 @@
 <!-- Start of the Universe 🚀 -->
 <p align="center">
   <strong>First, you have to park your ship safely...</strong><br><br>
-  <img src="path-to-your-universe-ship.gif" alt="Spaceship arriving" width="600" height="350"/>
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTljNHh5M2xjN2U4MXpqbzdtd2cydGwybjM3NWtpeHRiNndycnB3eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Kc2J1Ox5fGmt6m9R6w/giphy.gif" width="600" height="350"/>
 </p>
 
 <!-- Welcome Message -->
@@ -15,7 +15,7 @@
 <table align="center">
   <tr>
     <td>
-      <img src="path-to-your-galaxy-image.gif" alt="Galaxy Background" width="600" height="700"/>
+      <img src="https://cdn.pixabay.com/animation/2023/05/03/07/27/07-27-01-68_512.gif" alt="Galaxy Background" width="600" height="700"/>
     </td>
     <td style="padding-left: 30px; vertical-align: top;">
       <h2>🚀 Who Am I?</h2>
