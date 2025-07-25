@@ -8,7 +8,7 @@
 
 <!-- Welcome Message -->
 <h1 align="center">
-  🌌 Welcome to Nimsala's Coding Universe 🌌
+  🌌 Hi everyone!👋  Welcome to my profile 🌌
 </h1>
 
 <!-- Side-by-side layout: Galaxy GIF (left) + Bio (right) -->
